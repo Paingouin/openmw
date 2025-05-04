@@ -228,6 +228,10 @@
     Bug #8295: Post-processing chain is case-sensitive
     Bug #8299: Crash while smoothing landscape
     Bug #8364: Crash when clicking scrollbar without handle (divide by zero)
+    Bug #8378: Korean bitmap fonts are unusable
+    Bug #8439: Creatures without models can crash the game
+    Bug #8441: Freeze when using video main menu replacers
+    Bug #8462: Crashes when resizing the window on macOS
     Feature #1415: Infinite fall failsafe
     Feature #2566: Handle NAM9 records for manual cell references
     Feature #3501: OpenMW-CS: Instance Editing - Shortcuts for axial locking
